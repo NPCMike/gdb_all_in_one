@@ -1,9 +1,12 @@
 # gdb_all_in_one
 
+Parts of this project were inspired by the article [Andreas Pogiatzis](https://apogiatzis.medium.com/?source=post_page---byline--714d71bf36b8---------------------------------------)  by [Pwndbg + GEF + Peda — One for all, and all for one](https://infosecwriteups.com/pwndbg-gef-peda-one-for-all-and-all-for-one-714d71bf36b8), with appreciation.
+
 A script to easily install and set up **pwndbg** and **GEF** for GDB.
 
+
 All you need to do is download the `install.sh` file and run it.
-![圖片](https://github.com/user-attachments/assets/beeb6f30-fa52-400d-b012-4e886009981d)
+![final](https://github.com/user-attachments/assets/beeb6f30-fa52-400d-b012-4e886009981d)
 
 
 ## Installation
